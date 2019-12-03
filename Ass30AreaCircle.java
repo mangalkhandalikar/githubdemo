@@ -1,3 +1,10 @@
+/*
+mangal
+digambar 
+khandalikar
+rollno
+exit*/
+
 /*30. Create a class to calculate Area of circle with one data member to store the radius and another to store area value.
 	Create method members
   		1. init - to input radius from user
